@@ -1,5 +1,9 @@
-# golf
+# Golf Project <h1>
 Golf Analytics Project 
+  
+  
+
+# Player Lineup Generator <h1>
 
 ## Step 1) Download Excel Template<h2> 
 Use the following Excel template to list players for input into the generator
