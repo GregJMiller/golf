@@ -1,6 +1,5 @@
-# Golf Project <h1>
-Golf Analytics Project 
-  
+# Golf Hello World Project <h1>
+Collection of random hello world projects related to fantasy golf. 
   
 
 # Player Lineup Generator <h1>
