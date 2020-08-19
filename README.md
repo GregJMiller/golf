@@ -11,3 +11,4 @@ Use the following Excel template to list players for input into the generator
 
 ## Step 2) Run Python Script<h2> 
   Copy list of players from excel template into python program
+  [Download Python Script](https://github.com/GregJMiller/golf/blob/master/ComboGenerator/PlayerComboGen.py)
